@@ -48,6 +48,9 @@ Project Organization
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
+    |-- tableau            <- Tableau files.
+    |   ├── draft          <- Working files.
+    │   ├── production     <- Published files. Each file should be distinct and not overridden. Files should be appended with the date of publication in MMDDYYY format. (ex.
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
