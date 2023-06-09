@@ -18,7 +18,7 @@ def check_and_download(request):
     response = requests.get('https://www.justice.gov/eoir/foia-library-0')
     soup = BeautifulSoup(response.text, 'html.parser')
     # Search in the webpage for the element containing the last updated date.
-    # Note: The code here is an assumption, you need to adjust it based on the actual structure of your webpage.
+   
     last_updated_element = soup.find("div", class_="last-updated") 
     last_updated_text = last_updated_element.text
 
@@ -40,8 +40,8 @@ def download_and_store():
     response.raise_for_status()
 
     # Create a client to access the storage
-    client = storage.Client(project='your-project-id')
-    bucket = client.get_bucket('your-bucket-name')
+    client = storage.Client(project='eoia-datapipeline')
+    bucket = client.get_bucket('foia_zip')
 
     # Create a new blob and upload the file's content
     blob = bucket.blob('EOIA_Case_Data.zip')
