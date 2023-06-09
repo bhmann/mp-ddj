@@ -3,7 +3,7 @@
 
 Improving asylum case outcomes for immigrants through data analytics
 
-## Latest Tabluea Dashboard
+## Latest Tableau Dashboard
 
 Link: https://public.tableau.com/app/profile/jeffrey.obrien/viz/EOIR_Master/ApplicationsDash?publish=yes
 
@@ -60,5 +60,8 @@ Link: https://public.tableau.com/app/profile/jeffrey.obrien/viz/EOIR_Master/Appl
 
 
 --------
+## Data Sources:
+DOJ EOIR FOIA Library: https://www.justice.gov/eoir/foia-library-0
+
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
