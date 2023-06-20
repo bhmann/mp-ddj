@@ -7,6 +7,10 @@ Improving asylum case outcomes for immigrants through data analytics
 
 Link: https://public.tableau.com/app/profile/jeffrey.obrien/viz/EOIR_Master/ApplicationsDash?publish=yes
 
+## Project Architecture
+
+Link: https://s.icepanel.io/R2raAvDwqNKwdN/IPIj
+
 ## Project Organization
 ------------
 
