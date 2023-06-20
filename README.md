@@ -8,7 +8,7 @@ Improving asylum case outcomes for immigrants through data analytics
 Link: https://public.tableau.com/app/profile/jeffrey.obrien/viz/EOIR_Master/ApplicationsDash?publish=yes
 
 ## Project Architecture
-
+![image](https://raw.githubusercontent.com/bhmann/mp-ddj/77cbdfcc29db3e573c1d23079efef63b27baa394/src/visualization/MP%20-%20Data%20Driven%20Justice%20-%20DDJ%20Platform%20(Latest).png)
 Link: https://s.icepanel.io/R2raAvDwqNKwdN/IPIj
 
 ## Project Organization
